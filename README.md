@@ -1,2 +1,3 @@
-# SimpleLoginApp
-Implementing a simple login app using Vaadin 8
+# Samples
+
+This repository contains sample applications, using Java.
