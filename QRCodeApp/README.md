@@ -1,7 +1,7 @@
 QRCodeApp
 ==============
 
-Template for a simple Vaadin application that only requires a Servlet 3.0 container to run.
+This is a simple QR-Code application which displays any QRCode as png image in the browser. The application is integrated in a simple Vaadin 8 application where the user can enter any String which should be displayed as QRCode.
 
 
 Workflow
