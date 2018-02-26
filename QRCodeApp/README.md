@@ -1,8 +1,9 @@
 QRCodeApp
 ==============
 
-This is a simple QR-Code application which displays any QRCode as png image in the browser. The application is integrated in a simple Vaadin 8 application where the user can enter any String which should be displayed as QRCode.
+This is a QRCode sample application which displays any QRCode as png image in the browser. The application is integrated in a simple Vaadin 8 application where the user can enter any String which should be displayed as QRCode.
 
+For more details, see: http://www.florian-rhomberg.net
 
 Workflow
 ========
